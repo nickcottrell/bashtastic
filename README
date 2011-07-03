@@ -1,0 +1,24 @@
+    /)   ,        /)             /)            
+_/_(/      _     (/   _   _     (/_  _   _ __  
+(__/ )__(_/_)_   / )_(_(_/_)_  /_) _(/__(/_/ (_
+    __               __    __             __  _      __
+   / /_  ____ ______/ /_  / /_____ ______/ /_(_)____/ /
+  / __ \/ __ `/ ___/ __ \/ __/ __ `/ ___/ __/ / ___/ / 
+ / /_/ / /_/ (__  ) / / / /_/ /_/ (__  ) /_/ / /__/_/  
+/_.___/\__,_/____/_/ /_/\__/\__,_/____/\__/_/\___(_)
+
+                  /)           ,        
+    __   __  ____(/     _ _/_    _____  
+    /_)_/ (_(_)(_(_(_(_(__(___(_(_) / (_
+ .-/                                    
+(_/                                     
+
+version 1.1
+by nick cottrell (dot) info
+ascii art provided by http://www.network-science.de/ascii/
+
+Yah, yah, yah... no one should be using ftp... blah blah blah... but if you do, do it in style!
+
+You'll need to set up a .netrc file... see the sample file and remove the "remove_this_string" text so that it's simple a ".netrc" file. Update the information and place it in your (user) root directory.
+
+Next update the filepath info and ftp information on the script itself.
