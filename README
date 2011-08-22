@@ -13,7 +13,7 @@ ascii art provided by http://www.network-science.de/ascii/
 
 Yah, yah, yah... no one should be using ftp... blah blah blah... but if you do, do it in style!
 
-No, seriously though, alternatives such as SFTP and SCP are much more secure and should be used in place of FTP. This script can be easily modified to support other protocols... and I'll get to it at some point soon : )
+No, seriously though, alternatives such as SFTP are much more secure and should be used in place of FTP. This script can be easily modified to support other protocols... and I'll get to it at some point soon : )
 
 You'll need to set up a .netrc file... see the sample file and remove the "remove_this_string" text so that it's simple a ".netrc" file. Update the information and place it in your (user) root directory.
 
